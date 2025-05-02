@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Courses\\Homework2\\Homework2.csproj": {}
+    "C:\\Courses\\Courses\\Homework2\\Homework2.csproj": {}
   },
   "projects": {
-    "C:\\Courses\\Homework2\\Homework2.csproj": {
+    "C:\\Courses\\Courses\\Homework2\\Homework2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Courses\\Homework2\\Homework2.csproj",
+        "projectUniqueName": "C:\\Courses\\Courses\\Homework2\\Homework2.csproj",
         "projectName": "Homework2",
-        "projectPath": "C:\\Courses\\Homework2\\Homework2.csproj",
+        "projectPath": "C:\\Courses\\Courses\\Homework2\\Homework2.csproj",
         "packagesPath": "C:\\Users\\Roman\\.nuget\\packages\\",
-        "outputPath": "C:\\Courses\\Homework2\\obj\\",
+        "outputPath": "C:\\Courses\\Courses\\Homework2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

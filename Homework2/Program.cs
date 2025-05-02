@@ -8,8 +8,15 @@
         int Age = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("Введите ваш рост");
         double Height = Convert.ToDouble(Console.ReadLine());
-        Console.WriteLine("Привет," + Name + "!");
-        Console.WriteLine("\tВаш возраст: " + Age + " лет.");
-        Console.WriteLine("\t\tВаш рост: " + Height + " м.");
+        if(Age > 0)
+        {
+            Console.WriteLine("Привет," + Name + "!");
+            Console.WriteLine("\tВаш возраст: " + Age + " лет.");
+            Console.WriteLine("\t\tВаш рост: " + Height + " м.");
+        }
+        else
+        {
+            Console.WriteLine("Error");
+        }
     }
 }
