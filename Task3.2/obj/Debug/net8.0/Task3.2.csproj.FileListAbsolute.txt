@@ -1,0 +1,15 @@
+C:\Courses\Courses\Task3.2\bin\Debug\net8.0\Task3.2.exe
+C:\Courses\Courses\Task3.2\bin\Debug\net8.0\Task3.2.deps.json
+C:\Courses\Courses\Task3.2\bin\Debug\net8.0\Task3.2.runtimeconfig.json
+C:\Courses\Courses\Task3.2\bin\Debug\net8.0\Task3.2.dll
+C:\Courses\Courses\Task3.2\bin\Debug\net8.0\Task3.2.pdb
+C:\Courses\Courses\Task3.2\obj\Debug\net8.0\Task3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Courses\Courses\Task3.2\obj\Debug\net8.0\Task3.2.AssemblyInfoInputs.cache
+C:\Courses\Courses\Task3.2\obj\Debug\net8.0\Task3.2.AssemblyInfo.cs
+C:\Courses\Courses\Task3.2\obj\Debug\net8.0\Task3.2.csproj.CoreCompileInputs.cache
+C:\Courses\Courses\Task3.2\obj\Debug\net8.0\Task3.2.sourcelink.json
+C:\Courses\Courses\Task3.2\obj\Debug\net8.0\Task3.2.dll
+C:\Courses\Courses\Task3.2\obj\Debug\net8.0\refint\Task3.2.dll
+C:\Courses\Courses\Task3.2\obj\Debug\net8.0\Task3.2.pdb
+C:\Courses\Courses\Task3.2\obj\Debug\net8.0\Task3.2.genruntimeconfig.cache
+C:\Courses\Courses\Task3.2\obj\Debug\net8.0\ref\Task3.2.dll
