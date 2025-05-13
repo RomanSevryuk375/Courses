@@ -1,0 +1,7 @@
+C:\Courses\Courses\Homework4\H4_T2\bin\Debug\H4_T2.exe.config
+C:\Courses\Courses\Homework4\H4_T2\bin\Debug\H4_T2.exe
+C:\Courses\Courses\Homework4\H4_T2\bin\Debug\H4_T2.pdb
+C:\Courses\Courses\Homework4\H4_T2\obj\Debug\H4_T2.csproj.AssemblyReference.cache
+C:\Courses\Courses\Homework4\H4_T2\obj\Debug\H4_T2.csproj.CoreCompileInputs.cache
+C:\Courses\Courses\Homework4\H4_T2\obj\Debug\H4_T2.exe
+C:\Courses\Courses\Homework4\H4_T2\obj\Debug\H4_T2.pdb
