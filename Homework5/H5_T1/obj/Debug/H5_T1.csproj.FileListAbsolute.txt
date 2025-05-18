@@ -1,0 +1,7 @@
+C:\Courses\Courses\Homework5\H5_T1\bin\Debug\H5_T1.exe.config
+C:\Courses\Courses\Homework5\H5_T1\bin\Debug\H5_T1.exe
+C:\Courses\Courses\Homework5\H5_T1\bin\Debug\H5_T1.pdb
+C:\Courses\Courses\Homework5\H5_T1\obj\Debug\H5_T1.csproj.AssemblyReference.cache
+C:\Courses\Courses\Homework5\H5_T1\obj\Debug\H5_T1.csproj.CoreCompileInputs.cache
+C:\Courses\Courses\Homework5\H5_T1\obj\Debug\H5_T1.exe
+C:\Courses\Courses\Homework5\H5_T1\obj\Debug\H5_T1.pdb
