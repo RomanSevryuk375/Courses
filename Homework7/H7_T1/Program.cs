@@ -10,10 +10,11 @@ namespace H7_T1
 
             for (int i = 0; i < array.Length; i++)
             {
-                Console.WriteLine("Write number");
+                Console.WriteLine("Write a number");
                 array[i] = Convert.ToInt32(Console.ReadLine());
             }
-            Array.Sort(array, (x, y) => y.CompareTo(x)); 
+            Array.Sort(array, (x, y) => y.CompareTo(x));
+            Console.WriteLine("Sort");
             Console.WriteLine(string.Join(", ", array)); 
         }
     }
