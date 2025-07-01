@@ -127,7 +127,6 @@ public class DataProcessor
                     }
                     catch (JsonException)
                     {
-                        // Если не получилось как массив, попробуем прочитать как одиночный объект
                         var singleUser = JsonSerializer.Deserialize<User>(jsonContent);
                         if (singleUser != null)
                         {
